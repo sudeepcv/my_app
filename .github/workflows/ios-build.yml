@@ -1,31 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@sudeepcv
-damienaicheh /
-demo_flutter_github_actions
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-demo_flutter_github_actions/.github/workflows/ios-release.yml
-@damienaicheh
-damienaicheh Run action on main branch on push and pull request.
-Latest commit f5caa7e on 20 Apr 2021
-History
-1 contributor
-65 lines (51 sloc) 2.24 KB
 name: Flutter_iOS
 
 on:
